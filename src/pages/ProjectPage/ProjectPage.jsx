@@ -8,7 +8,7 @@ const ProjectPage = () => {
       <Helmet>
         <title>My Projects</title>
       </Helmet>
-      <PageTitle title="Projects" subtitle="Here are some of my works" />
+      <PageTitle title="Projects" subtitle="Individual and Group Projects" />
       <Project />
     </HelmetProvider>
   );

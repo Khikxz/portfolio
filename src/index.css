@@ -4,10 +4,10 @@
 
 /* CSS VARIABLES */
 :root {
-  --PRIMARY: #e85d04;
-  --SECONDARY: #f48c06;
+  --PRIMARY: #4b1aed;
+  --SECONDARY: #03a1fc;
   --DARK: #303030;
-  --LIGHT: #edf2f4;
+  --LIGHT: #cdf1ff;
 }
 
 body {

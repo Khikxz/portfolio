@@ -5,7 +5,7 @@ export const contactInfo = [
   {
     id: 1,
     icon: FaPhoneAlt,
-    description: 'Call Me',
+    description: 'Contact Me',
     child: (
       <a
         style={{
@@ -13,9 +13,9 @@ export const contactInfo = [
           color: '#000000',
           fontSize: '20px',
         }}
-        href="tel:+639123456789"
+        href="tel:+639054441198"
       >
-        + 639123456789
+        + 639054441198
       </a>
     ),
   },
